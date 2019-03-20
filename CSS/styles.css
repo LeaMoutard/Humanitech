@@ -9,15 +9,11 @@ html {
 .btn-facebook {
    background: #3B5998;
    border-radius: 0;
-   color: #fff;
+   color: ##4286f4;
    border-width: 1px;
    border-style: solid;
    border-color: #263961;
  }
  .btn-facebook:https://www.facebook.com/humanitechlse, .btn-facebook:visited {
-   color: #fff;
- }
- .btn-facebook:active, .btn-facebook:hover {
-   background: #263961;
    color: #fff;
  }
